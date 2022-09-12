@@ -19,6 +19,7 @@ if(object != null)
   object.DestroySelf();
   object = null;
 }
+```
 ## Adding Shapes
 You can easily add rectangles into the squares using the Shapes2D function. You will then have to add the paremeters for the position, scale and tag of the object. Here is an example of a square.
 ```cs
