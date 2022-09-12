@@ -12,7 +12,7 @@ If you have any questions, feel free to message me on Discord: zalcab#1371
 2. 
 # Doc
 ## Destroying objects
-To destroy objects you can use the method `DestroySelf`. Be aware that this will only remove then from the list, so they will technically still exist, leading to more memory usage. To completly remove the object use set the object `= null`.
+To destroy objects you can use the method `DestroySelf`. Be aware that this will only remove then from the list, so they will technically still exist, leading to more memory usage. To completly remove the object set the object `= null`.
 ```cs
 if(object != null) 
 {
