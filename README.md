@@ -1,5 +1,5 @@
 # Plick
-**Plick is a small and powerfull game engine created by Zalkab**, which is intented for simple games. It is very easy and lightweight, and will also be updated constantly.
+**Plick is a small and lightweight game engine created by Zalkab**, which is intented for simple games. It is very easy and intuitive, and will also be updated constantly.
 
 If you have any questions, feel free to message me on Discord: zalcab#1371
 
