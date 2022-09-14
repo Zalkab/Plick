@@ -26,7 +26,9 @@ You can easily add rectangles into the squares using the Shapes2D function. You 
 Shape 2D player = new Shape2D(new Vector2(10, 10), new Vector2(10, 10), "Test");
 ```
 ## Adding Sprites
-Adding sprite its not to hard either. You can use the Sprite2D function which needs a position, scale, root of the Sprite and a tag of the Sprite. Be aware that all the images must be inside a folder called `Assets/` which must be located inside `bin/Debug`. Note the engine only accepts .png and the extension is not needed in the root parameter.
+Adding sprite its not to hard either. You can use the Sprite2D function which needs a position, scale, root of the Sprite and a tag of the Sprite. Be aware that all the images must be inside a folder called `Assets` which must be located inside `bin/Debug`. Note the engine only accepts .png and the extension is not needed in the root parameter.
 ```cs
-Sprite2D player = new Sprite2D(new Vector2(10, 10), new Vector2(36, 45), "Sprites/Players/cool_dude", "Player");
+Sprite2D player = new Sprite2D(new Vector2(10, 10), new Vector2(36, 45), "Sprites/Players/player1", "Player");
 ```
+## Creating levels
+There are probably lots of different ways of creating levels
