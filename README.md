@@ -6,7 +6,7 @@ If you have any questions, feel free to message me on Discord: zalcab#1371
 ## Specifications
 * Runs with Windows [System.Drawing](https://docs.microsoft.com/en-us/dotnet/api/system.drawing?view=net-6.0) (I know it is quite scuffed but I was lazy using Open GL)
 * Built in C# in a .NET Framework
-*
+* Uses [Box2DNet](https://github.com/codeyu/Box2DNet) to handle physics
 ## Installation Guide
 1. Create a new [.NET 4 Framework Console Application](https://www.youtube.com/watch?v=sAWHLUpxCJI)
 2. 
